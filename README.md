@@ -58,7 +58,7 @@
 | **Nowshin Ashrafi** | 20245103166 |
 | **S M Ahnaf Shahriar** | 20245103109 |
 | **Farhan Hossain Mahim** | 20245103188 |
-| **K.M. Talha Jubair** | 20245103285 |
+| **K.M. Talha Jubair** | 20245103385 |
 
 ---
 
