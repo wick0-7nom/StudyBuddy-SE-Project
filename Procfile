@@ -1,0 +1,1 @@
+web: gunicorn lda_server:app
